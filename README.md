@@ -24,6 +24,7 @@ Note: The dataset used in this project is randomized. While it mimics real-world
   - Filter by vehicle type
 
   - Date range selection
+  
 
 ### Visualizations
 
